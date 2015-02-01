@@ -1,0 +1,153 @@
+50 vertices, 50 edges 
+0: 
+In: 
+Out: 3 
+1: 
+In: 
+Out: 6 
+2: 
+In: 
+Out: 34 
+3: 
+In: 0 19 
+Out: 34 
+4: 
+In: 
+Out: 45 
+5: 
+In: 31 49 
+Out: 30 
+6: 
+In: 7 23 48 1 10 
+Out: 33 
+7: 
+In: 
+Out: 6 49 
+8: 
+In: 33 11 20 35 
+Out: 
+9: 
+In: 
+Out: 11 
+10: 
+In: 
+Out: 6 
+11: 
+In: 14 9 
+Out: 8 
+12: 
+In: 22 
+Out: 13 
+13: 
+In: 12 21 46 36 
+Out: 23 
+14: 
+In: 
+Out: 11 
+15: 
+In: 17 
+Out: 21 
+16: 
+In: 
+Out: 35 
+17: 
+In: 
+Out: 15 
+18: 
+In: 
+Out: 48 
+19: 
+In: 44 
+Out: 3 
+20: 
+In: 30 39 40 26 
+Out: 8 
+21: 
+In: 15 24 
+Out: 13 
+22: 
+In: 
+Out: 12 
+23: 
+In: 38 13 42 27 
+Out: 6 
+24: 
+In: 
+Out: 21 
+25: 
+In: 37 
+Out: 35 
+26: 
+In: 
+Out: 20 
+27: 
+In: 28 
+Out: 23 
+28: 
+In: 
+Out: 27 
+29: 
+In: 
+Out: 34 
+30: 
+In: 34 5 
+Out: 20 
+31: 
+In: 
+Out: 5 
+32: 
+In: 
+Out: 33 
+33: 
+In: 6 32 45 47 
+Out: 8 
+34: 
+In: 29 3 2 
+Out: 30 
+35: 
+In: 16 25 
+Out: 8 
+36: 
+In: 
+Out: 13 
+37: 
+In: 
+Out: 25 
+38: 
+In: 41 
+Out: 23 
+39: 
+In: 
+Out: 20 
+40: 
+In: 
+Out: 20 
+41: 
+In: 
+Out: 38 
+42: 
+In: 43 
+Out: 23 
+43: 
+In: 
+Out: 42 
+44: 
+In: 
+Out: 19 
+45: 
+In: 4 
+Out: 33 
+46: 
+In: 
+Out: 13 
+47: 
+In: 
+Out: 33 
+48: 
+In: 18 
+Out: 6 
+49: 
+In: 7 
+Out: 5 
+
+

@@ -1,0 +1,33 @@
+10 vertices, 9 edges 
+0: 
+In: 6 5 
+Out: 1 
+1: 
+In: 0 
+Out: 9 
+2: 
+In: 
+Out: 8 
+3: 
+In: 
+Out: 8 
+4: 
+In: 
+Out: 7 
+5: 
+In: 
+Out: 0 
+6: 
+In: 
+Out: 0 
+7: 
+In: 4 
+Out: 9 
+8: 
+In: 3 2 
+Out: 9 
+9: 
+In: 8 7 1 
+Out: 
+
+

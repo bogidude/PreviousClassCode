@@ -1,0 +1,123 @@
+40 vertices, 45 edges 
+0: 
+In: 1 
+Out: 24 
+1: 
+In: 35 30 
+Out: 0 33 
+2: 
+In: 18 37 
+Out: 17 
+3: 
+In: 9 24 5 
+Out: 17 
+4: 
+In: 
+Out: 27 
+5: 
+In: 6 13 
+Out: 11 3 
+6: 
+In: 
+Out: 5 
+7: 
+In: 38 
+Out: 8 
+8: 
+In: 7 
+Out: 32 
+9: 
+In: 
+Out: 3 
+10: 
+In: 22 25 
+Out: 27 
+11: 
+In: 5 28 29 
+Out: 27 
+12: 
+In: 
+Out: 31 
+13: 
+In: 
+Out: 5 
+14: 
+In: 16 
+Out: 17 
+15: 
+In: 26 
+Out: 23 
+16: 
+In: 
+Out: 14 
+17: 
+In: 27 3 2 19 14 33 
+Out: 
+18: 
+In: 31 32 
+Out: 2 
+19: 
+In: 21 
+Out: 17 
+20: 
+In: 
+Out: 31 
+21: 
+In: 25 
+Out: 19 
+22: 
+In: 
+Out: 10 32 
+23: 
+In: 15 
+Out: 27 
+24: 
+In: 25 0 
+Out: 3 
+25: 
+In: 34 
+Out: 24 10 21 
+26: 
+In: 
+Out: 27 15 
+27: 
+In: 26 11 10 4 23 
+Out: 17 
+28: 
+In: 
+Out: 11 
+29: 
+In: 36 
+Out: 11 
+30: 
+In: 
+Out: 1 
+31: 
+In: 20 12 
+Out: 18 
+32: 
+In: 8 22 
+Out: 18 
+33: 
+In: 1 
+Out: 17 
+34: 
+In: 
+Out: 25 
+35: 
+In: 
+Out: 1 
+36: 
+In: 
+Out: 29 
+37: 
+In: 39 
+Out: 2 
+38: 
+In: 
+Out: 7 
+39: 
+In: 
+Out: 37 
+
+

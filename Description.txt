@@ -1,0 +1,5 @@
+This program accepts a graph input as shown in the dags folder and uses them as processes that need to be done.
+Each process must wait for the one before it to finish before it can be done. The program calculates the minimum
+number of steps required to finish all the processes and if "-s #NUMBER#" is typed after the filename, the program will 
+assume that only #NUMBER# steps can be done at one time and produces a schedule that tries to minimize the
+number of steps needed.
